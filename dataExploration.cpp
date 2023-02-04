@@ -94,7 +94,7 @@ int main() {
 
     // opening file
     cout << "Opening file Boston.csv..." << endl;
-    ifstream inFile("/Users/jaydiwate/CLionProjects/untitled/Boston.csv");
+    ifstream inFile("Boston.csv");
 
     // exit with code 1 indicating error
     if (!inFile.is_open()) {
