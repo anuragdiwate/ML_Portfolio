@@ -8,3 +8,8 @@ Portfolio for my Machine Learning class at the University of Texas at Dallas.
 [Link to PDF](https://github.com/anuragdiwate/ML_Portfolio/blob/main/Data%20Exploration.pdf)
 
 [Link to Code](https://github.com/anuragdiwate/ML_Portfolio/blob/main/dataExploration.cpp)
+
+## Linear Models
+[Link to Regression](https://github.com/anuragdiwate/ML_Portfolio/blob/main/Regression.pdf)
+
+[Link to Classification](https://github.com/anuragdiwate/ML_Portfolio/blob/main/Classification.pdf)
