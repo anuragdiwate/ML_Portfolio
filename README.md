@@ -15,8 +15,8 @@ Portfolio for my Machine Learning class at the University of Texas at Dallas.
 [Link to Classification](https://github.com/anuragdiwate/ML_Portfolio/blob/main/Classification.pdf)
 
 ## C++ Algorithms from Scratch
-[Link to Report](https://github.com/anuragdiwate/ML_Portfolio/blob/main/ML_Algorithms_from_Scratch.pdf)
+[Link to Report](https://github.com/anuragdiwate/ML_Portfolio/blob/main/C%2B%2B%20Algos%20Report.pdf)
 
-[Link to ML Algorithms form Scratch](https://github.com/anuragdiwate/ML_Portfolio/blob/main/ML_Algorithms_from_Scratch.cpp)
+[Link to ML Algorithms form Scratch](https://github.com/anuragdiwate/ML_Portfolio/blob/main/MLAlgos.cpp)
 
-[Link to ML Algorithms using Naïve Bayes](https://github.com/anuragdiwate/ML_Portfolio/blob/main/ML_Algorithms_from_Scratch_NB.cpp)
+[Link to ML Algorithms using Naïve Bayes](https://github.com/anuragdiwate/ML_Portfolio/blob/main/MLAlgosNB.cpp)
