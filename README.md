@@ -1,4 +1,4 @@
-# ML_Portfolio
+# ML Portfolio
 Portfolio for my Machine Learning class at the University of Texas at Dallas.
 
 ## Overview of Machine Learning 
