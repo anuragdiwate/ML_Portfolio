@@ -20,3 +20,6 @@ Portfolio for my Machine Learning class at the University of Texas at Dallas.
 [Link to ML Algorithms form Scratch](https://github.com/anuragdiwate/ML_Portfolio/blob/main/MLAlgos.cpp)
 
 [Link to ML Algorithms using Naïve Bayes](https://github.com/anuragdiwate/ML_Portfolio/blob/main/MLAlgosNB.cpp)
+
+## Similarity and Ensemble
+[Link to Clustering Report](https://github.com/anuragdiwate/ML_Portfolio/blob/main/clusteringReport.pdf)
