@@ -23,3 +23,6 @@ Portfolio for my Machine Learning class at the University of Texas at Dallas.
 
 ## Similarity and Ensemble
 [Link to Clustering Report](https://github.com/anuragdiwate/ML_Portfolio/blob/main/clusteringReport.pdf)
+
+## Python ML with sklearn
+[Link to PDF](https://github.com/anuragdiwate/ML_Portfolio/blob/main/sklearnML.pdf)
