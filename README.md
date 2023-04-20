@@ -26,3 +26,6 @@ Portfolio for my Machine Learning class at the University of Texas at Dallas.
 
 ## Python ML with sklearn
 [Link to PDF](https://github.com/anuragdiwate/ML_Portfolio/blob/main/sklearnML.pdf)
+
+## Keras Image Classification
+[Link to PDF](https://github.com/anuragdiwate/ML_Portfolio/blob/main/ImageClassification.pdf)
