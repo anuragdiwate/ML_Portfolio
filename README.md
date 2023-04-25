@@ -29,3 +29,6 @@ Portfolio for my Machine Learning class at the University of Texas at Dallas.
 
 ## Keras Image Classification
 [Link to PDF](https://github.com/anuragdiwate/ML_Portfolio/blob/main/ImageClassification.pdf)
+
+# Summary
+Going into this class, I didn't have any experience with Machine Learning, and all of the concepts it entailed. This class taught me not only the skills necessary to learn Machine Learning, but also opened me up to the field at large, and the directions the industry is trending towards. 
