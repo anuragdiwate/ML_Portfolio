@@ -1,9 +1,6 @@
 # ML Portfolio
 Portfolio for my Machine Learning class at the University of Texas at Dallas.
 
-## Machine Learning Resume
-[Link to Resume](https://github.com/anuragdiwate/ML_Portfolio/blob/main/Resume.md)
-
 ## Overview of Machine Learning 
 [Link to PDF](https://github.com/anuragdiwate/ML_Portfolio/blob/f0b37f234d8e5a4fb3b38d509bf1dbb7235bc171/Overview%20of%20ML.pdf)
 
@@ -32,6 +29,9 @@ Portfolio for my Machine Learning class at the University of Texas at Dallas.
 
 ## Keras Image Classification
 [Link to PDF](https://github.com/anuragdiwate/ML_Portfolio/blob/main/ImageClassification.pdf)
+
+## Machine Learning Resume
+[Link to Resume](https://github.com/anuragdiwate/ML_Portfolio/blob/main/Resume.md)
 
 # Summary
 Going into this class, I didn't have any experience with Machine Learning, and all of the concepts it entailed. This class taught me not only the skills necessary to learn Machine Learning, but also opened me up to the field at large, and the directions the industry is trending towards. I learnt many principal skills for Machine Learning such as data cleanup, performing mathematical calculations, and visualizing data using graphs. I also learnt to implement linear regression models, logistic regression models, classification models, clustering models, and naive bayes models. Finally, I learnt how to use libraries such as sklearn and keras to implement neural network models, as well as image classification models.
